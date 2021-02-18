@@ -2,7 +2,7 @@
 
 # Business Justification
 
-![Bank-api-microservices](/Users/jasato/Documents/Ironhack.nosync/rework-microservice-baking-app/Bank-api-microservices.png)
+![Bank-api-microservices](https://github.com/jasato89/Mini-Project-6.8/blob/main/Bank-api-microservices.png)
 
 ## Introduction
 
